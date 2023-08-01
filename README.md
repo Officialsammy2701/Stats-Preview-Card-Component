@@ -51,7 +51,7 @@ Mobile View
 
 ### Continued development
 
-Going on a streak of solving every challenges to improve my skills
+Going on a streak of solving every challenge to improve my skills
 
 ## Author
 
@@ -59,8 +59,6 @@ Going on a streak of solving every challenges to improve my skills
 - Frontend Mentor - [@AkandeIsmail](https://www.frontendmentor.io/profile/AkandeIsmail)
 - Twitter - [@sammy_2701](https://twitter.com/sammy_2701)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
-Like always, my gratitute goes to my amazing guys at [Frontend Mentor](https://www.frontendmentor.io) who are working effortlessly to put this challenges together to help Frontend Developers get practical knowledge while building out these projects.
+Like always, my gratitude goes to my amazing guys at [Frontend Mentor](https://www.frontendmentor.io) who are working effortlessly to put these challenges together to help Frontend Developers get practical knowledge while building out these projects.
