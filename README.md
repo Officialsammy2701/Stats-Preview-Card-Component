@@ -38,7 +38,7 @@ Mobile View
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://your-solution-url.com](https://github.com/Officialsammy2701/Stats-Preview-Card-Component)
+- Solution URL: [Code on GitHub](https://github.com/Officialsammy2701/Stats-Preview-Card-Component)
 - Live Site URL: [GitHub Pages Live URL](https://officialsammy2701.github.io/Stats-Preview-Card-Component/)
 
 ## My process
