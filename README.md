@@ -28,16 +28,18 @@ Users should be able to:
 ### Screenshot
 
 Desktop View
+
 ![desktop view](./Screenshots/Desktop%20View.png)
 
 Mobile View
+
 ![mobile view](./Screenshots/Mobile%20View.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://officialsammy2701.github.io/Stats-Preview-Card-Component/)
+- Solution URL: [Code on GitHub](https://your-solution-url.com)
+- Live Site URL: [GitHub Pages Live URL](https://officialsammy2701.github.io/Stats-Preview-Card-Component/)
 
 ## My process
 
